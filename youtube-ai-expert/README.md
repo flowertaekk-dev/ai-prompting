@@ -38,3 +38,9 @@ Please let us know if you want to add yours too.🤝
 * https://www.youtube.com/channel/UCrfaDi6owBgUL3ggjbtN-gw
 
 # Any question is welcomed😀
+
+# Logs
+
+### 2023/12/12
+
+1. Changes video duration to 20 seconds long since previous Shorts' average watching time is 15~20 seconds.
