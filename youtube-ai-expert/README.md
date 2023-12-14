@@ -44,3 +44,8 @@ Please let us know if you want to add yours too.🤝
 ### 2023/12/12
 
 1. Changes video duration to 20 seconds long since previous Shorts' average watching time is 15~20 seconds.
+
+### 2023/12/13
+
+1. Splits `INSTRUCTION` into two which are `INSTRUCTION1`, and `INSTRUCTION2`
+2. Uses `Zero-Shot CoT` : Chain of Thought
